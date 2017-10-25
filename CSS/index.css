@@ -1,24 +1,15 @@
-/*header{
-	height: auto;
-	width: 25%;
-	background: #00FFFF;
+a{
+	text-decoration: none;
+	color:#000000;
 }
-details{
-	font-style: italic;
+a:hover{
+	background: #B3B3B3;
+    color: #0006CC;
 }
-summary{
-	font-style: normal;
+a:focus{ 
+    background: #B3B3B3;
+    color: #0006CC;
 }
-h4, span{
-	font-style: oblique;
-	background: #000000;
-	color: #ffffff;
+a:active{ 
+    border: 3px solid #000000;
 }
-div{
-	width: 30%;
-	height: auto;
-	background: #00b54c;
-}
-table{
-	background: #58f698;
-}*/
